@@ -7,5 +7,4 @@ module.exports = {
   endOfLine:'auto',
   semi:true,
   printWidth:100,
-  parser: "flow"
 };

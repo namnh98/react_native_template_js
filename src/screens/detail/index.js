@@ -2,12 +2,12 @@ import { View, Text } from 'react-native';
 import React from 'react';
 import styles from './styles';
 
-const Home = () => {
+const Detail = () => {
   return (
-    <View style={styles.constainer}>
-      <Text>Home</Text>
+    <View style={styles.container}>
+      <Text>Detail</Text>
     </View>
   );
 };
 
-export default Home;
+export default Detail;
